@@ -13,7 +13,6 @@
 	# Put recipients separated by coma.
 
         else
-
                 # string found
                 echo "ok"
 		#when the script will be added to crontab, message "ok" will be sent via sysmail after every check.
